@@ -1,0 +1,1611 @@
+{
+    "channelList": [
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/6273f0c6-dbd6-45f7-beeb-5c199f93f390_w600_h482.png",
+                "width": 648,
+                "height": 477
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/f63cace2-8f84-4807-bd3c-363f95f7a9fd_w278_h35.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "天猫精灵助你更快集五福",
+            "endTitle": "天猫精灵助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "JING_LING",
+                    "name": "天猫精灵"
+                }
+            ],
+            "client": "JING_LING",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/d93682e8-4ca8-4132-aa26-b90df77d2a32_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/b19ebdb5-69e3-47e7-b152-21922a779a50_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "飞猪助你更快集齐五福",
+            "endTitle": "飞猪助您加速集齐五福",
+            "sourceList": [
+                {
+                    "source": "FEI_ZHU",
+                    "name": "飞猪"
+                }
+            ],
+            "client": "FEI_ZHU",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/7dccdb17-4dad-44a8-8f5f-533e7198b861_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/d030359c-d75c-40fe-ab18-237f3f543e9f_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "优酷助你更快集齐五福",
+            "endTitle": "优酷助你更快集齐五福",
+            "sourceList": [
+                {
+                    "source": "YOUKU_TV",
+                    "name": "优酷"
+                }
+            ],
+            "client": "YOUKU_TV",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/fabdd17e-8675-43c0-aeec-26d6a75d8a06_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/87202d68-dfc9-4074-9343-3edaf2fdd388_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "淘票票助你更快集齐五福",
+            "endTitle": "淘票票助你更快集齐五福",
+            "sourceList": [
+                {
+                    "source": "PIAO_PIAO",
+                    "name": "淘票票"
+                }
+            ],
+            "client": "PIAO_PIAO",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/5fcd4549-7e09-47c9-a87f-9210c5093638_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/2c849728-ddac-4fcc-9a41-b99ad366987f_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "手机天猫助你更快集齐五福",
+            "endTitle": "手机天猫助你更快集齐五福",
+            "sourceList": [
+                {
+                    "source": "TIAN_MAO",
+                    "name": "手机天猫"
+                }
+            ],
+            "client": "TIAN_MAO",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/b92c7e56-df44-413a-8a97-17f4630bb01c_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/76cc0abe-f356-420f-972a-aea9d6448550_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "考拉助你更快集齐五福",
+            "endTitle": "考拉助你更快集齐五福",
+            "sourceList": [
+                {
+                    "source": "KAO_LA",
+                    "name": "考拉"
+                }
+            ],
+            "client": "KAO_LA",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/ebd72cd8-f435-4630-9179-14481a7cd396_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/e8f05b9a-0baa-4d44-b3fb-b960fc415723_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "菜鸟助你更快集齐五福",
+            "endTitle": "菜鸟助你更快集齐五福",
+            "sourceList": [
+                {
+                    "source": "CAI_NIAO",
+                    "name": "菜鸟"
+                }
+            ],
+            "client": "CAI_NIAO",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/148e7869-dd47-451e-9b97-86a539fe8ec9_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/ce832848-6402-436c-9d94-d6968067dd40_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "新华社客户端祝你五福临门",
+            "endTitle": "新华社客户端祝你五福临门",
+            "sourceList": [
+                {
+                    "source": "XINHUA_SHE",
+                    "name": "新华社"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/11547888-22c6-4ea6-b4c6-1b8a013d2e31_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/e6b1abbe-c63a-49ef-81b7-ac1940a00894_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "《江南百景图》助你更快集五福",
+            "endTitle": "《江南百景图》助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "BAI_JINGTU",
+                    "name": "江南百景图"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/a974249a-0dfc-4c7d-a44e-55cf042c1e3e_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/66bddd95-4721-4695-81a7-9edd07ebb17b_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "科创中国助你更快集五福",
+            "endTitle": "科创中国助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "KE_CHUANG",
+                    "name": "科创中国"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/5fe28bbc-562d-4af6-94e2-5b24c21c4c70_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/e7eebc0b-907b-40e8-b922-01e93b5b7059_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "科技工作者之家助你更快集五福",
+            "endTitle": "科技工作者之家助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "KEJI_ZHIJIA",
+                    "name": "科技工作者之家"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/d7ea9dc5-c6ce-4843-b26b-e2546bc8e56e_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/f06cce04-0e2d-44bc-b8b8-c2a50db3b5e0_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "上观新闻助你更快集五福",
+            "endTitle": "上观新闻助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "JIEFANG_RIBAO",
+                    "name": "解放日报上观客户端"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/55329b24-600e-47db-a098-e5acdb70804e_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/10997252-bf43-49ba-9846-6d8c4c68aecf_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "新安晚报·大皖客户端助你更快集五福",
+            "endTitle": "新安晚报·大皖客户端助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "DA_WAN",
+                    "name": "大皖客户端"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/e72d9893-ec4c-4acb-a019-82c18db8d1f0_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/bd14f9f4-d5d1-42fb-b714-56cf5c0df3f8_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "南京紫金山新闻助你更快集五福",
+            "endTitle": "南京紫金山新闻助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "ZIJIN_SHAN",
+                    "name": "南京紫金山新闻"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/1cb8a0d7-1982-4334-995e-3f7b75f54909_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/3aba938d-e935-47cb-93fb-a9c6d2c94db7_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "中国蓝新闻助你更快集五福",
+            "endTitle": "中国蓝新闻助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "ZHONGGUO_LAN",
+                    "name": "中国蓝新闻"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/f64e14f6-bdb1-4f6b-88a1-a85503aee62d_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/b19f2688-ba1e-4899-a9fb-bc1eaec01691_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "大河财立方助你更快集五福",
+            "endTitle": "大河财立方助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "CAI_LIFANG",
+                    "name": "大河财立方"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/78b60267-f315-47c3-a4fb-bc0b8bc7fb3d_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/17c7d723-d642-446b-a883-dfcbed46a619_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "正观APP助你更快集五福",
+            "endTitle": "正观APP助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "ZHENG_GUAN",
+                    "name": "正观新闻"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/5fb00a2e-ff97-4d2f-aac4-b19f792e655f_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/3dec2007-5781-47a0-96c0-da30892e0381_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "江西新闻客户端助你更快集五福",
+            "endTitle": "江西新闻客户端助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "JIANGXI_XINWEN",
+                    "name": "江西新闻客户端"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/b129f207-5eb6-45c5-a6ec-68f6a0d29239_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/65ef1e5f-430e-46db-b7f3-738159f23f65_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "羊城晚报助你更快集五福",
+            "endTitle": "羊城晚报助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "YANG_CHENG",
+                    "name": "羊城晚报"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/6d8d31ff-486e-4605-81da-527b00bca27a_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/7c565f0d-7208-49f3-a73f-ba06ec888eeb_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "N视频助你更快集五福",
+            "endTitle": "N视频助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "NAN_DU",
+                    "name": "南都N视频"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/916137a5-c599-4869-9b54-017ba1e457db_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/774cc0a2-3adb-4752-88d1-9e57c80ec37e_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "大三亚助你更快集五福",
+            "endTitle": "大三亚助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "SANYA_RIBAO",
+                    "name": "三亚日报"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/75815cfe-ee12-41a2-9efe-f32d7f27931b_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/05ee70c9-a769-4094-9ac9-a4067ae4a8f2_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "开屏新闻助你更快集五福",
+            "endTitle": "开屏新闻助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "CHUNCHENG_WANBAO",
+                    "name": "春城晚报开屏新闻"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/c1a9b000-d36c-425c-8e7d-4e19bbffb241_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/6cc46878-c000-48c9-aac1-345653d25d58_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "天眼新闻APP助你更快集五福",
+            "endTitle": "天眼新闻APP助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "GUIZHOU_DUSHIBAO",
+                    "name": "贵州都市报天眼APP"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/ecd5c199-2b03-4630-bbb8-1fcd3de8ea40_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/6677ab09-f40f-4667-9874-65a8c84ddd42_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "黄河Plus客户端助你更快集五福",
+            "endTitle": "黄河Plus客户端助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "HUANG_HE",
+                    "name": "黄河plus客户端"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/7e3e8a57-78e5-48ec-8806-f3cd87d9665e_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/aa47f133-9c39-42c9-b239-7eedd4d14a58_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "陕西头条助你更快集五福",
+            "endTitle": "陕西头条助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "SHANXI_TOUTIAO",
+                    "name": "陕西头条"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/0154a0f2-357d-4b47-8edd-9c192523be65_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/915c5649-4ab3-4b88-ad82-90c01f2871d3_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "新京报助你更快集五福",
+            "endTitle": "新京报助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "XINJING_BAO",
+                    "name": "新京报"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/81c987f9-d895-4108-9386-7e13c8386361_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/73a949b6-d651-4b96-9369-e027efea5891_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "津云客户端助你更快集五福",
+            "endTitle": "津云客户端助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "JIN_YUN",
+                    "name": "津云客户端"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/a8ad776f-94dc-4c47-ae50-b6d5e2ce5c2d_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/35dae7ec-987b-46bc-8b88-78c515aa70e4_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "重庆日报助你更快集五福",
+            "endTitle": "重庆日报助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "CHONG_QING",
+                    "name": "重庆日报"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/a6d1a3e8-8647-4163-a3fd-706ee2f17381_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/b9e286e2-325e-4c84-91c7-56ca10d11dff_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "龙头新闻助你更快集五福",
+            "endTitle": "龙头新闻助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "LONGTOU_XINWEN",
+                    "name": "龙头新闻"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/63501f7a-b096-4762-bbe5-b4b679c9874f_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/e651808b-d93d-4933-b0bf-60c8cd428bc0_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "大众报业风口财经客户端助你更快集五福",
+            "endTitle": "大众报业风口财经客户端助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "FENGKOU_CAIJING",
+                    "name": "风口财经"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/27e435f0-538c-4a91-912d-295b4807d7eb_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/9aea3338-f58d-44dd-844b-f53e86a31b6b_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "齐鲁晚报·齐鲁壹点客户端助你更快集五福",
+            "endTitle": "齐鲁晚报·齐鲁壹点客户端助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "QILU_WANBAO",
+                    "name": "齐鲁晚报壹点客户端"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/4b4acac0-649a-4138-a563-2012afded1dc_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/2e367a68-36e4-4d5e-b4b7-ae9f5b00bfaf_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "国家政务服务平台助你更快集五福",
+            "endTitle": "国家政务服务平台助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "GUOWU_YUAN",
+                    "name": "国务院"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/819c0ad1-9738-4e7a-8b76-18cc20d36f0b_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/a10d8950-a34d-4ca6-897a-d6755b481292_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "电子社保卡助你更快集五福",
+            "endTitle": "电子社保卡助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "REN_SHE",
+                    "name": "人社部"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/e1ef2d9b-f3a7-4907-ad98-45fbe369d600_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/eda8a37b-d20a-4b6f-91ee-e872f27c25d6_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "国家医保局给你送福",
+            "endTitle": "国家医保局给你送福",
+            "sourceList": [
+                {
+                    "source": "YI_BAO",
+                    "name": "医保局"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/13ef0bd8-755b-4fed-9d16-0b26810855fa_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/b1312afe-4b30-45bc-97cd-dbc91d3e82d9_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "豫事办祝你五福临门办事顺利",
+            "endTitle": "豫事办祝你五福临门办事顺利",
+            "sourceList": [
+                {
+                    "source": "YUSHI_BAN",
+                    "name": "豫事办"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/f2498963-cf55-4100-b202-4d6bcb5a390a_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/abeefba0-0ade-4dd2-b234-3f7efa855e05_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "鄂汇办助你更快集五福",
+            "endTitle": "鄂汇办助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "EHUI_BAN",
+                    "name": "鄂汇办"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/23cad847-c903-452e-b2ac-d4cde9358d01_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/bb48d18c-2747-4528-8e58-84b4456fc514_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "上海一网通办 随时随地一生相伴",
+            "endTitle": "上海一网通办 随时随地一生相伴",
+            "sourceList": [
+                {
+                    "source": "SUISHEN_BAN",
+                    "name": "随申办"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/5ec5a2df-11bb-439e-ae18-7af7239930f7_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/9bbecddf-76e5-4c2b-b754-2262e9040d7e_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "深圳交警助你更快集五福",
+            "endTitle": "深圳交警助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "SHENZHEN_JIAOJING",
+                    "name": "深圳交警"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/0f1ef0d3-fe7c-405a-b869-0420e216785c_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/eab9a8cd-684f-4fce-adb5-066af630a892_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "赣服通祝你五福临门办事顺利",
+            "endTitle": "赣服通祝你五福临门办事顺利",
+            "sourceList": [
+                {
+                    "source": "GANFU_TONG",
+                    "name": "赣服通"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/2842c5ae-a002-49d1-a938-fe9fc008a505_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/756df123-1599-46ce-ba7f-e88b3656f2a4_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "安徽税务局祝你福气满满",
+            "endTitle": "安徽税务局祝你福气满满",
+            "sourceList": [
+                {
+                    "source": "ANHUI_SHUIWU",
+                    "name": "安徽税务局"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/bb514606-1d15-4ffa-82f9-e638c68b5c75_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/4a274d62-4162-4b04-bbcc-5029b20db323_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "无锡住房公积金管理中心拜年啦",
+            "endTitle": "无锡住房公积金管理中心拜年啦",
+            "sourceList": [
+                {
+                    "source": "WUXI_GONGJIJIN",
+                    "name": "无锡公积金"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/f76ff909-c750-4d85-88d6-27f56da83ce1_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/1dc53014-5b54-4f18-8c09-390e0387838e_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "上海公积金管理中心祝你福气满满",
+            "endTitle": "上海公积金管理中心祝你福气满满",
+            "sourceList": [
+                {
+                    "source": "SHANGHAI_GONGJIJIN",
+                    "name": "上海公积金"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/e800e0fb-9949-45f2-8edf-0ef67ac1ad32_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/945a425a-5ca7-41d3-936d-bad5b7b2c145_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "天府通办助你更快集五福",
+            "endTitle": "天府通办助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "TIANFU_TONG",
+                    "name": "天府通办"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/f9e33b70-de14-45d6-bb51-e410f00755ed_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/656d6440-f8e6-4d9f-b573-1e2f264ebcba_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "市大数据发展管理局向全市人民拜年啦",
+            "endTitle": "市大数据发展管理局向全市人民拜年啦",
+            "sourceList": [
+                {
+                    "source": "QINGDAN_DASHUJU",
+                    "name": "青岛大数据局"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/d9343515-557a-45f5-be81-09a9a0ce59e9_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/d19e2df0-6dfa-4f9a-87b5-b7f2f5868cf8_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "皖事通祝你五福临门办事顺利",
+            "endTitle": "皖事通祝你五福临门办事顺利",
+            "sourceList": [
+                {
+                    "source": "WANSHI_TONG",
+                    "name": "皖事通"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/2f0b11dc-8cd8-4cbe-b401-ce32b157bfca_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/c2531b8c-156d-49b1-a3d8-598d3fd21f0e_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "闽政通助力快速集五福",
+            "endTitle": "闽政通助力快速集五福",
+            "sourceList": [
+                {
+                    "source": "MINZHENG_TONG",
+                    "name": "闽政通"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1612713599000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/61957600-6b35-4b00-a980-2399311a8a28_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/ad845b98-55e3-46ca-8afd-fb054fb67f31_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "美图秀秀祝你颜值福气双丰收",
+            "endTitle": "美图秀秀祝你颜值福气双丰收",
+            "sourceList": [
+                {
+                    "source": "MEI_TU",
+                    "name": "美图秀秀"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1612713599000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/6cdd7134-956c-4d9e-9171-951f706b6ac4_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/7b983527-e874-4817-b302-540d6cc7ce1d_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "国潮自拍中国年 拍神兽妆得福卡",
+            "endTitle": "国潮自拍中国年 拍神兽妆得福卡",
+            "sourceList": [
+                {
+                    "source": "MEI_YAN",
+                    "name": "美颜相机"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/dcdda00a-7f32-40ed-82d6-d78431500f45_w598_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/c1a60594-6ccb-437e-810f-d410b8527e66_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "芒果TV祝你天生青春",
+            "endTitle": "芒果TV祝你天生青春",
+            "sourceList": [
+                {
+                    "source": "MANG_GUO",
+                    "name": "芒果TV"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/c77722fd-ab17-4b41-822d-04857e24d77f_w600_h482.png",
+                "width": 648,
+                "height": 477
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/ad5ee5b5-e007-49e1-becd-ade4cd5b7e55_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "来快手 搜「非遗般的福」领福卡",
+            "endTitle": "来快手 搜「非遗般的福」领福卡",
+            "sourceList": [
+                {
+                    "source": "KUAI_SHOU",
+                    "name": "快手"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/438f63d3-23de-4936-b101-ef4f2038831a_w601_h483.png",
+                "width": 648,
+                "height": 477
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/b3013f38-11fe-4e0b-9dc0-f7a5729f64f1_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "https://music.163.com/m/at/600a6e41051bbd33f1c04496",
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/f40bd5c2-a4d9-43eb-9c45-2368e04bf7f3_w690_h221.png",
+                "width": 690,
+                "height": 221
+            },
+            "title": "来网易云音乐 搜「五福」领福卡",
+            "endTitle": "来网易云音乐 搜「五福」领福卡",
+            "sourceList": [
+                {
+                    "source": "WANGYI_YUN",
+                    "name": "网易云音乐"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/a836d28a-ec67-4117-bf4e-82fe5cdf51ac_w600_h482.png",
+                "width": 648,
+                "height": 477
+            },
+            "channelLogo": {
+                "img": "",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "https://baidu.com",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "集五福 更快一步",
+            "endTitle": "集五福 更快一步",
+            "sourceList": [
+                {
+                    "source": "default",
+                    "name": "默认小写"
+                },
+                {
+                    "source": "DEFAULT",
+                    "name": "默认大写"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/3ba3242e-5c65-458e-a8aa-44ebee7a983b_w600_h482.png",
+                "width": 600,
+                "height": 482
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/0126099c-da51-4721-bc44-657d1a3ef0d0_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "https://baidu.com",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "书旗小说助你更快集五福",
+            "endTitle": "书旗小说助你更快集五福",
+            "sourceList": [
+                {
+                    "source": "SHU_QI",
+                    "name": "书旗小说"
+                }
+            ],
+            "client": "SHU_QI",
+            "music": ""
+        }
+    ],
+    "btnText": "开福气盲盒",
+    "btnDesc": "开福气盲盒得随机福卡，更快集齐五福哦～",
+    "prizeTip": "奖品已存入你的支付宝账号:",
+    "actRule": {
+        "img": "https://gw.alipayobjects.com/mdn/rms_44d4e1/afts/img/A*tYSSSaXHvVcAAAAAAAAAAAAAARQnAQ",
+        "width": 690,
+        "height": 148
+    },
+    "exchangeRule": {
+        "img": "https://gw.alipayobjects.com/mdn/rms_44d4e1/afts/img/A*PksCRoFND94AAAAAAAAAAAAAARQnAQ",
+        "width": 690,
+        "height": 505
+    }
+}

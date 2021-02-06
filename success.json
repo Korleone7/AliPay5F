@@ -1,0 +1,424 @@
+{
+    "channelList": [
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/6273f0c6-dbd6-45f7-beeb-5c199f93f390_w600_h482.png",
+                "width": 648,
+                "height": 477
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/f63cace2-8f84-4807-bd3c-363f95f7a9fd_w278_h35.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "\u5929\u732b\u7cbe\u7075\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "endTitle": "\u5929\u732b\u7cbe\u7075\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "JING_LING",
+                    "name": "\u5929\u732b\u7cbe\u7075"
+                }
+            ],
+            "client": "JING_LING",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/d93682e8-4ca8-4132-aa26-b90df77d2a32_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/b19ebdb5-69e3-47e7-b152-21922a779a50_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "\u98de\u732a\u52a9\u4f60\u66f4\u5feb\u96c6\u9f50\u4e94\u798f",
+            "endTitle": "\u98de\u732a\u52a9\u60a8\u52a0\u901f\u96c6\u9f50\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "FEI_ZHU",
+                    "name": "\u98de\u732a"
+                }
+            ],
+            "client": "FEI_ZHU",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/b92c7e56-df44-413a-8a97-17f4630bb01c_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/76cc0abe-f356-420f-972a-aea9d6448550_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "\u8003\u62c9\u52a9\u4f60\u66f4\u5feb\u96c6\u9f50\u4e94\u798f",
+            "endTitle": "\u8003\u62c9\u52a9\u4f60\u66f4\u5feb\u96c6\u9f50\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "KAO_LA",
+                    "name": "\u8003\u62c9"
+                }
+            ],
+            "client": "KAO_LA",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/ebd72cd8-f435-4630-9179-14481a7cd396_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/e8f05b9a-0baa-4d44-b3fb-b960fc415723_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "\u83dc\u9e1f\u52a9\u4f60\u66f4\u5feb\u96c6\u9f50\u4e94\u798f",
+            "endTitle": "\u83dc\u9e1f\u52a9\u4f60\u66f4\u5feb\u96c6\u9f50\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "CAI_NIAO",
+                    "name": "\u83dc\u9e1f"
+                }
+            ],
+            "client": "CAI_NIAO",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/6d8d31ff-486e-4605-81da-527b00bca27a_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/7c565f0d-7208-49f3-a73f-ba06ec888eeb_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "N\u89c6\u9891\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "endTitle": "N\u89c6\u9891\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "NAN_DU",
+                    "name": "\u5357\u90fdN\u89c6\u9891"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/916137a5-c599-4869-9b54-017ba1e457db_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/774cc0a2-3adb-4752-88d1-9e57c80ec37e_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "\u5927\u4e09\u4e9a\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "endTitle": "\u5927\u4e09\u4e9a\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "SANYA_RIBAO",
+                    "name": "\u4e09\u4e9a\u65e5\u62a5"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/75815cfe-ee12-41a2-9efe-f32d7f27931b_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/05ee70c9-a769-4094-9ac9-a4067ae4a8f2_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "\u5f00\u5c4f\u65b0\u95fb\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "endTitle": "\u5f00\u5c4f\u65b0\u95fb\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "CHUNCHENG_WANBAO",
+                    "name": "\u6625\u57ce\u665a\u62a5\u5f00\u5c4f\u65b0\u95fb"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/c1a9b000-d36c-425c-8e7d-4e19bbffb241_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/6cc46878-c000-48c9-aac1-345653d25d58_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "\u5929\u773c\u65b0\u95fbAPP\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "endTitle": "\u5929\u773c\u65b0\u95fbAPP\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "GUIZHOU_DUSHIBAO",
+                    "name": "\u8d35\u5dde\u90fd\u5e02\u62a5\u5929\u773cAPP"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/ecd5c199-2b03-4630-bbb8-1fcd3de8ea40_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/6677ab09-f40f-4667-9874-65a8c84ddd42_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "\u9ec4\u6cb3Plus\u5ba2\u6237\u7aef\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "endTitle": "\u9ec4\u6cb3Plus\u5ba2\u6237\u7aef\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "HUANG_HE",
+                    "name": "\u9ec4\u6cb3plus\u5ba2\u6237\u7aef"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/7e3e8a57-78e5-48ec-8806-f3cd87d9665e_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/aa47f133-9c39-42c9-b239-7eedd4d14a58_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "\u9655\u897f\u5934\u6761\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "endTitle": "\u9655\u897f\u5934\u6761\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "SHANXI_TOUTIAO",
+                    "name": "\u9655\u897f\u5934\u6761"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/0154a0f2-357d-4b47-8edd-9c192523be65_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/915c5649-4ab3-4b88-ad82-90c01f2871d3_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "\u65b0\u4eac\u62a5\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "endTitle": "\u65b0\u4eac\u62a5\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "XINJING_BAO",
+                    "name": "\u65b0\u4eac\u62a5"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/81c987f9-d895-4108-9386-7e13c8386361_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/73a949b6-d651-4b96-9369-e027efea5891_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "\u6d25\u4e91\u5ba2\u6237\u7aef\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "endTitle": "\u6d25\u4e91\u5ba2\u6237\u7aef\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "JIN_YUN",
+                    "name": "\u6d25\u4e91\u5ba2\u6237\u7aef"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/a8ad776f-94dc-4c47-ae50-b6d5e2ce5c2d_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/35dae7ec-987b-46bc-8b88-78c515aa70e4_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "\u91cd\u5e86\u65e5\u62a5\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "endTitle": "\u91cd\u5e86\u65e5\u62a5\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "CHONG_QING",
+                    "name": "\u91cd\u5e86\u65e5\u62a5"
+                }
+            ],
+            "client": "",
+            "music": ""
+        },
+        {
+            "startTime": 1611763200000,
+            "endTime": 1613052000000,
+            "giftImage": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/a6d1a3e8-8647-4163-a3fd-706ee2f17381_w600_h482.png",
+                "width": 600,
+                "height": 480
+            },
+            "channelLogo": {
+                "img": "https://gw.alipayobjects.com/os/c/cms/img/b9e286e2-325e-4c84-91c7-56ca10d11dff_w278_h36.png",
+                "width": 278,
+                "height": 36
+            },
+            "channelBanner": {
+                "link": "",
+                "img": "",
+                "width": 690,
+                "height": 221
+            },
+            "title": "\u9f99\u5934\u65b0\u95fb\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "endTitle": "\u9f99\u5934\u65b0\u95fb\u52a9\u4f60\u66f4\u5feb\u96c6\u4e94\u798f",
+            "sourceList": [
+                {
+                    "source": "LONGTOU_XINWEN",
+                    "name": "\u9f99\u5934\u65b0\u95fb"
+                }
+            ],
+            "client": "",
+            "music": ""
+        }
+    ]
+}
